@@ -5,7 +5,11 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
+<<<<<<< Updated upstream
       "hash": "1fae74e39d804e21a90637ea21e3f5a080632bce"
+=======
+      "hash": "3822ea17bb5a5596171d3bdfe86c8c575857039c"
+>>>>>>> Stashed changes
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
