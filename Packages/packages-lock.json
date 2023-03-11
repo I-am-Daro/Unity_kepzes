@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.marosi.starterassets": {
+      "version": "https://github.com/marosicsaba91/StarterAssets.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1fae74e39d804e21a90637ea21e3f5a080632bce"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
